@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Sunburst Highway",
+  "description": "A vibrant cartoon 3D endless highway racing environment built with Three.js featuring lane markings, lush roadside trees, snowy mountains, fluffy clouds, and interactive driving controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
